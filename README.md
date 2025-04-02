@@ -1,3 +1,5 @@
+# To run the code files: pip install yfinance pandas numpy matplotlib seaborn scikit-learn tensorflow
+
 # Introduction
 The project focuses on predicting stock prices using deep learning models, specifically Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) networks.
 
