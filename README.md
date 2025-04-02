@@ -1,5 +1,3 @@
-## Stock Prediction Using Deep Learning Models
-
 # Introduction
 The project focuses on predicting stock prices using deep learning models, specifically Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) networks.
 
